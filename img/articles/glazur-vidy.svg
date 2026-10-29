@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="Arial, Helvetica, sans-serif">
+<rect width="1200" height="560" fill="#fff"/>
+<text x="60" y="58" font-size="30" font-weight="700" fill="#24321f">Кондитерская глазурь: три вида по жировой основе</text>
+<rect x="60" y="100" width="340" height="420" rx="22" fill="#f8f6ef" stroke="#dfe3d6"/>
+<rect x="60" y="100" width="340" height="74" rx="22" fill="#2f4a35"/><rect x="60" y="150" width="340" height="24" fill="#2f4a35"/>
+<text x="230.0" y="147" font-size="23" font-weight="700" fill="#fff" text-anchor="middle">Шоколадная глазурь</text>
+<text x="84" y="220" font-size="17" fill="#6b7466">Жировая основа</text>
+<text x="84" y="252" font-size="20" font-weight="700" fill="#24321f">какао-масло + какао тёртое</text>
+<text x="84" y="282" font-size="18" fill="#24321f">(можно частично заменить на CBE)</text>
+<line x1="84" x2="376" y1="315" y2="315" stroke="#dfe3d6" stroke-width="2"/>
+<circle cx="94" cy="355" r="6" fill="#2f4a35"/>
+<text x="112" y="362" font-size="19" fill="#24321f">нужно темперирование</text>
+<circle cx="94" cy="413" r="6" fill="#2f4a35"/>
+<text x="112" y="420" font-size="19" fill="#24321f">вкус и «щелчок» шоколада</text>
+<circle cx="94" cy="471" r="6" fill="#2f4a35"/>
+<text x="112" y="478" font-size="19" fill="#24321f">самая дорогая основа</text>
+<rect x="430" y="100" width="340" height="420" rx="22" fill="#f8f6ef" stroke="#dfe3d6"/>
+<rect x="430" y="100" width="340" height="74" rx="22" fill="#8a7a3a"/><rect x="430" y="150" width="340" height="24" fill="#8a7a3a"/>
+<text x="600.0" y="147" font-size="23" font-weight="700" fill="#fff" text-anchor="middle">Глазурь на ЛЗМК</text>
+<text x="454" y="220" font-size="17" fill="#6b7466">Жировая основа</text>
+<text x="454" y="252" font-size="20" font-weight="700" fill="#24321f">лауриновый заменитель</text>
+<text x="454" y="282" font-size="18" fill="#24321f">+ обезжиренный какао-порошок</text>
+<line x1="454" x2="746" y1="315" y2="315" stroke="#dfe3d6" stroke-width="2"/>
+<circle cx="464" cy="355" r="6" fill="#8a7a3a"/>
+<text x="482" y="362" font-size="19" fill="#24321f">темперирование не нужно</text>
+<circle cx="464" cy="413" r="6" fill="#8a7a3a"/>
+<text x="482" y="420" font-size="19" fill="#24321f">быстрый глянец, тонкий слой</text>
+<circle cx="464" cy="471" r="6" fill="#8a7a3a"/>
+<text x="482" y="478" font-size="19" fill="#24321f">несовместима с какао-маслом</text>
+<rect x="800" y="100" width="340" height="420" rx="22" fill="#f8f6ef" stroke="#dfe3d6"/>
+<rect x="800" y="100" width="340" height="74" rx="22" fill="#5d6b4f"/><rect x="800" y="150" width="340" height="24" fill="#5d6b4f"/>
+<text x="970.0" y="147" font-size="23" font-weight="700" fill="#fff" text-anchor="middle">Глазурь на нелауриновом</text>
+<text x="824" y="220" font-size="17" fill="#6b7466">Жировая основа</text>
+<text x="824" y="252" font-size="20" font-weight="700" fill="#24321f">нелауриновый ЗМК (CBR)</text>
+<text x="824" y="282" font-size="18" fill="#24321f">+ какао-порошок обычной жирности</text>
+<line x1="824" x2="1116" y1="315" y2="315" stroke="#dfe3d6" stroke-width="2"/>
+<circle cx="834" cy="355" r="6" fill="#5d6b4f"/>
+<text x="852" y="362" font-size="19" fill="#24321f">темперирование не нужно</text>
+<circle cx="834" cy="413" r="6" fill="#5d6b4f"/>
+<text x="852" y="420" font-size="19" fill="#24321f">терпит немного какао-масла</text>
+<circle cx="834" cy="471" r="6" fill="#5d6b4f"/>
+<text x="852" y="478" font-size="19" fill="#24321f">мягче, медленнее застывает</text>
+</svg>

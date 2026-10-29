@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 570" width="1200" height="570" font-family="Arial, Helvetica, sans-serif">
+<rect width="1200" height="570" fill="#fff"/>
+<rect x="400" y="40" width="400" height="76" rx="38" fill="#2f4a35"/>
+<text x="600" y="88" font-size="27" font-weight="700" fill="#fff" text-anchor="middle">Кондитерские жиры</text>
+<path d="M600,116 C600,160 177,150 177,196" fill="none" stroke="#8a7a3a" stroke-width="3"/>
+<rect x="46" y="200" width="262" height="330" rx="20" fill="#f8f6ef" stroke="#dfe3d6"/>
+<text x="177" y="244" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">Для шоколада</text>
+<text x="177" y="272" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">и глазурей</text>
+<text x="177" y="330" font-size="18.5" fill="#24321f" text-anchor="middle">какао-масло</text>
+<text x="177" y="386" font-size="18.5" fill="#24321f" text-anchor="middle">эквиваленты (CBE)</text>
+<text x="177" y="442" font-size="18.5" fill="#24321f" text-anchor="middle">заменители: ЛЗМК (CBS)</text>
+<text x="177" y="498" font-size="18.5" fill="#24321f" text-anchor="middle">и нелауриновые (CBR)</text>
+<path d="M600,116 C600,160 459,150 459,196" fill="none" stroke="#8a7a3a" stroke-width="3"/>
+<rect x="328" y="200" width="262" height="330" rx="20" fill="#f8f6ef" stroke="#dfe3d6"/>
+<text x="459" y="244" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">Для начинок</text>
+<text x="459" y="272" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">и кремов</text>
+<text x="459" y="330" font-size="18.5" fill="#24321f" text-anchor="middle">кокосовое масло</text>
+<text x="459" y="386" font-size="18.5" fill="#24321f" text-anchor="middle">пальмоядровое масло</text>
+<text x="459" y="442" font-size="18.5" fill="#24321f" text-anchor="middle">фракции пальмового масла</text>
+<text x="459" y="498" font-size="18.5" fill="#24321f" text-anchor="middle">жиры для начинок</text>
+<path d="M600,116 C600,160 741,150 741,196" fill="none" stroke="#8a7a3a" stroke-width="3"/>
+<rect x="610" y="200" width="262" height="330" rx="20" fill="#f8f6ef" stroke="#dfe3d6"/>
+<text x="741" y="244" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">Для выпечки</text>
+<text x="741" y="272" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">и теста</text>
+<text x="741" y="330" font-size="18.5" fill="#24321f" text-anchor="middle">пальмовое масло РДО</text>
+<text x="741" y="386" font-size="18.5" fill="#24321f" text-anchor="middle">шортенинги</text>
+<text x="741" y="442" font-size="18.5" fill="#24321f" text-anchor="middle">маргарины</text>
+<text x="741" y="498" font-size="18.5" fill="#24321f" text-anchor="middle">жиры для слоёного теста</text>
+<path d="M600,116 C600,160 1023,150 1023,196" fill="none" stroke="#8a7a3a" stroke-width="3"/>
+<rect x="892" y="200" width="262" height="330" rx="20" fill="#f8f6ef" stroke="#dfe3d6"/>
+<text x="1023" y="244" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">Для жарки</text>
+<text x="1023" y="272" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle"></text>
+<text x="1023" y="330" font-size="18.5" fill="#24321f" text-anchor="middle">пальмовый олеин</text>
+<text x="1023" y="386" font-size="18.5" fill="#24321f" text-anchor="middle">фритюрные жиры</text>
+<text x="1023" y="442" font-size="18.5" fill="#24321f" text-anchor="middle">(многократный нагрев)</text>
+</svg>

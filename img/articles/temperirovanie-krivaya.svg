@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" font-family="Arial, Helvetica, sans-serif">
+<rect width="1200" height="600" fill="#fff"/>
+<text x="120" y="46" font-size="28" font-weight="700" fill="#24321f">Темперирование тёмного шоколада: температурная кривая</text>
+<rect x="760" y="90" width="380" height="410" fill="#f3efe2"/>
+<rect x="330" y="90" width="430" height="410" fill="#eef2ea"/>
+<rect x="120" y="90" width="210" height="410" fill="#f3efe2"/>
+<line x1="120" x2="1140" y1="500" y2="500" stroke="#dfe3d6" stroke-width="1"/>
+<text x="106" y="506" font-size="18" fill="#6b7466" text-anchor="end">20 °C</text>
+<line x1="120" x2="1140" y1="441" y2="441" stroke="#dfe3d6" stroke-width="1"/>
+<text x="106" y="447" font-size="18" fill="#6b7466" text-anchor="end">25 °C</text>
+<line x1="120" x2="1140" y1="383" y2="383" stroke="#dfe3d6" stroke-width="1"/>
+<text x="106" y="389" font-size="18" fill="#6b7466" text-anchor="end">30 °C</text>
+<line x1="120" x2="1140" y1="324" y2="324" stroke="#dfe3d6" stroke-width="1"/>
+<text x="106" y="330" font-size="18" fill="#6b7466" text-anchor="end">35 °C</text>
+<line x1="120" x2="1140" y1="266" y2="266" stroke="#dfe3d6" stroke-width="1"/>
+<text x="106" y="272" font-size="18" fill="#6b7466" text-anchor="end">40 °C</text>
+<line x1="120" x2="1140" y1="207" y2="207" stroke="#dfe3d6" stroke-width="1"/>
+<text x="106" y="213" font-size="18" fill="#6b7466" text-anchor="end">45 °C</text>
+<line x1="120" x2="1140" y1="149" y2="149" stroke="#dfe3d6" stroke-width="1"/>
+<text x="106" y="155" font-size="18" fill="#6b7466" text-anchor="end">50 °C</text>
+<line x1="120" x2="1140" y1="90" y2="90" stroke="#dfe3d6" stroke-width="1"/>
+<text x="106" y="96" font-size="18" fill="#6b7466" text-anchor="end">55 °C</text>
+<text x="225" y="540" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">1. Расплавить: 45–50 °C</text>
+<text x="225" y="568" font-size="18" fill="#6b7466" text-anchor="middle">все кристаллы разрушены</text>
+<text x="545" y="540" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">2. Охладить: 27–28 °C</text>
+<text x="545" y="568" font-size="18" fill="#6b7466" text-anchor="middle">растут кристаллы всех форм</text>
+<text x="950" y="540" font-size="21" font-weight="700" fill="#2f4a35" text-anchor="middle">3. Подогреть: 31–32 °C</text>
+<text x="950" y="568" font-size="18" fill="#6b7466" text-anchor="middle">остаются кристаллы формы V</text>
+<path d="M120,149 L330,149 L620,412 L760,412 L900,365 L1140,365" fill="none" stroke="#2f4a35" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="330" cy="149" r="8" fill="#8a7a3a" stroke="#fff" stroke-width="3"/>
+<circle cx="760" cy="412" r="8" fill="#8a7a3a" stroke="#fff" stroke-width="3"/>
+<circle cx="1140" cy="365" r="8" fill="#8a7a3a" stroke="#fff" stroke-width="3"/>
+<text x="1140" y="74" font-size="17" fill="#6b7466" text-anchor="end">Ориентиры для тёмного шоколада; точные режимы — в спецификации производителя</text>
+</svg>
